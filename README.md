@@ -1,13 +1,19 @@
-# 舞出未来 构思和实现 过程
+# Docusaurus 2
 
-## 互联网用户进入web3时代解决方案
+This directory is a brief example of a [Docusaurus](https://v2.docusaurus.io) site that can be deployed to Vercel with zero configuration.
 
-## 数字藏品-->NFT划时代方案
+## Deploy Your Own
 
-## 将健康习惯转化为加密货币
+Deploy your own Docusaurus project with Vercel.
 
-产品开发路径：
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/docusaurus-2&template=docusaurus-2)
 
-项目构思-->p1启动（准备工作）--p2阶段产品需求--p3阶段--p4
+_Live Example: https://docusaurus-2-template.vercel.app_
 
+### How We Created This Example
 
+To get started with Docusaurus on Vercel, you can use the [Docusaurus CLI](https://v2.docusaurus.io/docs/installation#scaffold-project-website) to initialize the project:
+
+```shell
+$ npx @docusaurus/init@next init my-website classic
+```
