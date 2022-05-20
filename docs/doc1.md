@@ -24,7 +24,7 @@ sidebar_label: 通证经济
 
 产品上线版本号“Alpha 版”、“Beta 版”、“内测版”、“预先体验版”、“公测版”“公测版第一阶段”
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![alt text](https://github.com/cryptoascii/idea/tree/main/static/docsimg/d1.jpg)
 
 # H1 - Create the best documentation
 
