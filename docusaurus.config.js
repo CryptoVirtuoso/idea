@@ -77,7 +77,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/cryptoascii/idea,
+              href: 'https://github.com/cryptoascii/idea',
             },
           ],
         },
