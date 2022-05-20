@@ -3,7 +3,7 @@ id: mdx
 title: NFT
 ---
 
-<table><tbody>
+<table>
 <tr>
 <th rowspan="3">我占了3行</th>
 <th>第一列</th>
