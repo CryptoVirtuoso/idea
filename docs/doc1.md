@@ -24,16 +24,7 @@ sidebar_label: 通证经济
 
 产品上线版本号“Alpha 版”、“Beta 版”、“内测版”、“预先体验版”、“公测版”“公测版第一阶段”
 
-| Tables        |      Are      |   Cool |   Cool |   Cool |
-| ------------- | :-----------: | -----: | -----: | -----: |
-| col 3 is      | right-aligned | \$1600 | \$1600 | \$1600 |
-| col 2 is      |   centered    |   \$12 | \$1600 | \$1600 |
-| zebra stripes |   are neat    |    \$1 | \$1600 | \$1600 |
-| zebra stripes |   are neat    |    \$1 | \$1600 | \$1600 |
-| zebra stripes |   are neat    |    \$1 | \$1600 | \$1600 |
-| zebra stripes |   are neat    |    \$1 | \$1600 | \$1600 |
-| zebra stripes |   are neat    |    \$1 | \$1600 | \$1600 |
-| zebra stripes |   are neat    |    \$1 | \$1600 | \$1600 |
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
 # H1 - Create the best documentation
 
