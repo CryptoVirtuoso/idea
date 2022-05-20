@@ -1,6 +1,6 @@
 ---
 id: doc2
-title: NFT
+title: 项目理念(概括导图)
 ---
 
-This is a link to [another document.](doc3.md) This is a link to an [external page.](http://www.example.com)
+![alt text](https://storage.googleapis.com/wcu-73ed75f5-c5922c8c/wuchuweilai/%20%20劲舞团%20ABC&XYZ-a5e56404.png)
