@@ -20,35 +20,23 @@ sidebar_label: 通证经济
 
 ## 游戏代币ABC 介绍
 
-游戏代币 -ABC：发行无上限，基础发行量30亿，有通胀模型。
+游戏代币 - ABC
+发行无上限，基础发行量30亿
+有通胀模型。
 
 产品上线版本号“Alpha 版”、“Beta 版”、“内测版”、“预先体验版”、“公测版”“公测版第一阶段”
 
-![alt text](https://github.com/cryptoascii/idea/tree/main/static/docsimg/d1.jpg)
+![alt text](https://github.com/cryptoascii/idea/tree/main/static/docsimg/d1.png)
 
-# H1 - Create the best documentation
 
-## H2 - Create the best documentation
 
-### H3 - Create the best documentation
+## 治理代币XYZ 介绍
 
-#### H4 - Create the best documentation
+治理代币 - XYZ
+发行上限：10亿，完成通缩后至5.9亿
+产品上线版本号“Alpha 版”、“Beta 版”、“内测版”、“预先体验版”、“公测版”“公测版第一阶段”
 
-##### H5 - Create the best documentation
-
-###### H6 - Create the best documentation
-
----
-
-## Emphasis
-
-Emphasis, aka italics, with _asterisks_ or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
+![alt text](https://github.com/cryptoascii/idea/tree/main/static/docsimg/d2.png)
 
 ---
 
