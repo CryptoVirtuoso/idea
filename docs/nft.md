@@ -3,7 +3,7 @@ id: nft
 title: NFT稀有度
 ---
 
-## 舞动未来 -- NFT一共有5类稀有度👇
+# 舞动未来 -- NFT一共有5类稀有度👇
 
 <table>
 <tr>
@@ -44,3 +44,26 @@ title: NFT稀有度
 
 </table>
 
+---
+
+# 例如
+
+## 普通的 
+![alt text](https://storage.googleapis.com/wcu-73ed75f5-c5922c8c/wuchuweilai/1-a515fe0b.png)
+
+
+## 不常见
+
+![alt text](https://storage.googleapis.com/wcu-73ed75f5-c5922c8c/wuchuweilai/2-f18d83be.png)
+
+## 罕见的
+
+![alt text](https://storage.googleapis.com/wcu-73ed75f5-c5922c8c/wuchuweilai/3-7526534c.png)
+
+## 史诗的
+
+![alt text](https://storage.googleapis.com/wcu-73ed75f5-c5922c8c/wuchuweilai/4-48c77ea5.png)
+
+## 传说的
+
+![alt text](https://storage.googleapis.com/wcu-73ed75f5-c5922c8c/wuchuweilai/5-3734c2be.png)
