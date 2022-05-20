@@ -30,10 +30,10 @@ sidebar_label: 通证经济
 
 <tr>
 <th><font color="#0356fc">30亿</font></th>
-<th bgcolor="#0356fc">用途</th>
-<th bgcolor="#0356fc">占比</th>
-<th bgcolor="#0356fc">描述</th>
-<th bgcolor="#0356fc">锁仓释放规则（初版）</th>
+<th><font color="#0356fc">用途</font></th>
+<th><font color="#0356fc">占比</font></th>
+<th><font color="#0356fc">描述</font></th>
+<th><font color="#0356fc">锁仓释放规则（初版）</font></th>
 </tr>
 
 <tr>
