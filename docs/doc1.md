@@ -29,11 +29,11 @@ sidebar_label: 通证经济
 <table>
 
 <tr>
-<th>30亿</th>
-<th>用途</th>
-<th>占比</th>
-<th>描述</th>
-<th>锁仓释放规则（初版）</th>
+<th bgcolor="#0356fc">30亿</th>
+<th bgcolor="#0356fc">用途</th>
+<th bgcolor="#0356fc">占比</th>
+<th bgcolor="#0356fc">描述</th>
+<th bgcolor="#0356fc">锁仓释放规则（初版）</th>
 </tr>
 
 <tr>
