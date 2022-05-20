@@ -1,17 +1,25 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: '舞动未来',
+  tagline: 'WIKI',
+  url: 'https://101010.cool',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'cryptoascii', // Usually your GitHub org/user name.
+  projectName: '101010', // Usually your repo name.
   themeConfig: {
+    announcementBar: {
+      id: 'support_us',
+      content:
+        '水友们，舞动未来即将开启，欢迎查看 <a target="_blank" rel="noopener noreferrer" href="#">戳我进官网</a>',
+      backgroundColor: '#fafbfc',
+      textColor: '#091E42',
+      isCloseable: false,
+    },
     navbar: {
-      title: 'My Site',
+      title: 'Wiki-舞动未来',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: '舞动未来',
+        src: 'img/teddy-bear.png',
       },
       links: [
         {
@@ -20,9 +28,8 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/cryptoascii/101010',
           label: 'GitHub',
           position: 'right',
         },
@@ -70,7 +77,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/cryptoascii/idea',
             },
           ],
         },
@@ -86,14 +93,9 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/cryptoascii/idea/tree/main',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
