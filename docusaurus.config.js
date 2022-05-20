@@ -10,7 +10,7 @@ module.exports = {
     announcementBar: {
       id: 'support_us',
       content:
-        '水友们，舞动未来即将开启，欢迎查看 <a target="_blank" rel="noopener noreferrer" href="#">戳我进官网</a>',
+        '水友们，舞动未来即将开启，<a target="_blank" rel="noopener noreferrer" href="#">戳我进官网</a>',
       backgroundColor: '#fafbfc',
       textColor: '#091E42',
       isCloseable: false,
