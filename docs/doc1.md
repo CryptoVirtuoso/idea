@@ -18,7 +18,22 @@ sidebar_label: 通证经济
 
 
 
-## Headers
+## 游戏代币ABC 介绍
+
+游戏代币 -ABC：发行无上限，基础发行量30亿，有通胀模型。
+
+产品上线版本号“Alpha 版”、“Beta 版”、“内测版”、“预先体验版”、“公测版”“公测版第一阶段”
+
+| Tables        |      Are      |   Cool |   Cool |   Cool |
+| ------------- | :-----------: | -----: | -----: | -----: |
+| col 3 is      | right-aligned | \$1600 | \$1600 | \$1600 |
+| col 2 is      |   centered    |   \$12 | \$1600 | \$1600 |
+| zebra stripes |   are neat    |    \$1 | \$1600 | \$1600 |
+| zebra stripes |   are neat    |    \$1 | \$1600 | \$1600 |
+| zebra stripes |   are neat    |    \$1 | \$1600 | \$1600 |
+| zebra stripes |   are neat    |    \$1 | \$1600 | \$1600 |
+| zebra stripes |   are neat    |    \$1 | \$1600 | \$1600 |
+| zebra stripes |   are neat    |    \$1 | \$1600 | \$1600 |
 
 # H1 - Create the best documentation
 
