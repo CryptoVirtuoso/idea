@@ -29,7 +29,7 @@ sidebar_label: 通证经济
 <table>
 
 <tr>
-<th><font color="#0356fc">30亿</th>
+<th><font color="#0356fc">30亿</font></th>
 <th bgcolor="#0356fc">用途</th>
 <th bgcolor="#0356fc">占比</th>
 <th bgcolor="#0356fc">描述</th>
