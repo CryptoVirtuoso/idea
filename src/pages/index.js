@@ -8,32 +8,56 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: <>如何收益</>,
+    imageUrl: 'img/reimbursement.png',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        111111111
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: <>NFT介绍</>,
+    imageUrl: 'img/nft.png',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        2222222.
       </>
     ),
   },
   {
-    title: <>Powered by React</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: <>通证经济</>,
+    imageUrl: 'img/tokens.png',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        333333.
+      </>
+    ),
+  },
+  {
+    title: <>UGC计划</>,
+    imageUrl: 'img/blogger.png',
+    description: (
+      <>
+        4444444.
+      </>
+    ),
+  },
+  {
+    title: <>竞技PK</>,
+    imageUrl: 'img/competition.png',
+    description: (
+      <>
+        4444444.
+      </>
+    ),
+  },
+  {
+    title: <>社区</>,
+    imageUrl: 'img/community.png',
+    description: (
+      <>
+        4444444.
       </>
     ),
   },
