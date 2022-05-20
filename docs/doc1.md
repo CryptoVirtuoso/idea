@@ -4,11 +4,19 @@ title: 通证经济
 sidebar_label: 通证经济
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
-## Markdown Syntax
+## 双代币系统
 
-To serve as an example page when styling markdown based Docusaurus sites.
+1）游戏代币（简称：ABC）
+2）治理代币（简称：XYZ）
+
+:::note
+
+双代币系统即：经济的天平，用来平衡劲舞的内外生态经济系统，主要目的用以调控生态宏观经济。
+
+:::
+
+
 
 ## Headers
 
