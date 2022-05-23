@@ -1,6 +1,9 @@
 ---
 id: doc5
-title: 如何获益？
+title: 舞动未来 如何获益？
 ---
 
-![alt text](https://storage.googleapis.com/wcu-73ed75f5-c5922c8c/wuchuweilai/_20220511180648-b5551707.png)
+- NFT INO/pre-sale/买卖/交易市场/版税等
+- 代币 预售/融资/一级市场/二级市场/场外交易等
+- 广告/名人合作/品牌合作 （限量版耐克鞋子/香奈儿 LE LION）
+- 其他项目方合作
