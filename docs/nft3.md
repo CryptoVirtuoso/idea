@@ -68,6 +68,20 @@ ERC-1155：包括铸造，销毁，转移，批准和元数据更改的标准化
 
 ![721&1155](https://storage.googleapis.com/wcu-73ed75f5-c5922c8c/wuchuweilai/ERC721%20vs%20ERC1155-7069eb10.png)
 
+### 用户上链的选择
+
+- 1. 使用jpeg/png等方式上链
+
+![静态](https://storage.googleapis.com/wcu-73ed75f5-c5922c8c/wuchuweilai/image_2022_05_23T11_06_05_943Z-d6a2de28.png)
+
+- 2. 选择用 gif/mp4等方式上链
+
+![动图GIF](http://au.9you.com/guide7/0222/A8-011.gif)
+
+
+
+
+
 
 
 
