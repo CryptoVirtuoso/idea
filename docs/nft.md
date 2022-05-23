@@ -3,7 +3,7 @@ id: nft
 title: NFT稀有度
 ---
 
-# 舞动未来 -- NFT一共有5类稀有度👇
+## 舞动未来 -- NFT一共有5类稀有度👇
 
 <table>
 <tr>
