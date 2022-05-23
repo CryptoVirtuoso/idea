@@ -72,8 +72,8 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
+              label: 'Medium',
+              href: 'https://medium.com/',
             },
             {
               label: 'GitHub',
@@ -82,7 +82,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} 2022-2025 舞起来`,
     },
   },
   presets: [
