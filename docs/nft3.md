@@ -70,6 +70,8 @@ ERC-1155：包括铸造，销毁，转移，批准和元数据更改的标准化
 
 ### 用户上链的选择
 
+`招式``动作``原创``人物`等等内容完成ERC721的铸造。
+
 - 1. 使用jpeg/png等方式上链
 
 ![静态](https://storage.googleapis.com/wcu-73ed75f5-c5922c8c/wuchuweilai/image_2022_05_23T11_06_05_943Z-d6a2de28.png)
