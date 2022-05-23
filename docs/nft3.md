@@ -9,6 +9,29 @@ ERC-721和ERC-1155
 
 ERC1155是ERC721协议的升级版，更适合大型游戏的应用场景。
 
+## 例如：
+
+下图所示：
+
+部件即可以是ERC-1155也可以是ERC-721，当用户完成自己喜欢的人物搭配后，可以主动铸造成为ERC-721的资产，然后挂卖到市场进行交易（赚钱）。
+
+其中包含着非常丰富的创作性，并且创作的门槛就像是乐高，通过部件进行铸造。
+
+![721&1155](https://storage.googleapis.com/wcu-73ed75f5-c5922c8c/wuchuweilai/ERC721%20vs%20ERC1155-7069eb10.png)
+
+### 用户上链的选择
+
+`招式``动作``原创``人物`等等内容完成ERC721的铸造。
+
+- 1. （静态）使用jpeg/png等方式上链
+
+![静态](https://storage.googleapis.com/wcu-73ed75f5-c5922c8c/wuchuweilai/image_2022_05_23T11_06_05_943Z-d6a2de28.png)
+
+- 2. （动态）选择用 gif/mp4等方式上链
+
+![动态](https://raw.githubusercontent.com/cryptoascii/idea/main/static/img/A8-011.gif?token=GHSAT0AAAAAABUXMOKPM3IVCZLKMHTZYYCKYULNYZQ)
+
+
 ## 两者的区别
 
 ### 替代品和非替代品
@@ -58,27 +81,6 @@ ERC-721：发出转移和批准。
 
 ERC-1155：包括铸造，销毁，转移，批准和元数据更改的标准化事件。这样可以带来很酷的生态系统收益，例如对代币和区块链浏览器进行深度数据分析。
 
-## 例如：
-
-下图所示：
-
-部件即可以是ERC-1155也可以是ERC-721，当用户完成自己喜欢的人物搭配后，可以主动铸造成为ERC-721的资产，然后挂卖到市场进行交易（赚钱）。
-
-其中包含着非常丰富的创作性，并且创作的门槛就像是乐高，通过部件进行铸造。
-
-![721&1155](https://storage.googleapis.com/wcu-73ed75f5-c5922c8c/wuchuweilai/ERC721%20vs%20ERC1155-7069eb10.png)
-
-### 用户上链的选择
-
-`招式``动作``原创``人物`等等内容完成ERC721的铸造。
-
-- 1. （静态）使用jpeg/png等方式上链
-
-![静态](https://storage.googleapis.com/wcu-73ed75f5-c5922c8c/wuchuweilai/image_2022_05_23T11_06_05_943Z-d6a2de28.png)
-
-- 2. （动态）选择用 gif/mp4等方式上链
-
-![动态](https://raw.githubusercontent.com/cryptoascii/idea/main/static/img/A8-011.gif?token=GHSAT0AAAAAABUXMOKPM3IVCZLKMHTZYYCKYULNYZQ)
 
 
 
