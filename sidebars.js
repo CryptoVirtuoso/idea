@@ -5,5 +5,6 @@ module.exports = {
     NFT介绍: ['nft', 'nft1', 'nft2', 'nft3', 'nft4', 'nft5'],
     社区: ['dao1'],
     UGC申请: ['ugc1'],
+    路线图: ['roadmap'],
   },
 };
