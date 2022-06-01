@@ -17,7 +17,7 @@ ERC1155是ERC721协议的升级版，更适合大型游戏的应用场景。
 
 其中包含着非常丰富的创作性，并且创作的门槛就像是乐高，通过部件进行铸造。
 
-![721&1155](https://storage.googleapis.com/wcu-73ed75f5-c5922c8c/wuchuweilai/ERC721%20vs%20ERC1155-7069eb10.png)
+![721&1155](https://storage.googleapis.com/wcu-73ed75f5-c5922c8c/wuchuweilai/ERC721%20vs%20ERC1155-fef9cbd3.png)
 
 ### 用户上链的选择
 
