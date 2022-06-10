@@ -6,5 +6,6 @@ module.exports = {
     社区: ['dao1'],
     UGC申请: ['ugc1'],
     路线图: ['roadmap'],
+    web3 app: ['app1'],
   },
 };
