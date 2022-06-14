@@ -15,7 +15,7 @@ title: NFT稀有度
 <tr>
 <th>普通的</th>
 <th>Lv1</th>
-<th><font color="#ffffff">白色</font></th>
+<th><font color="#B0ABAB">灰色</font></th>
 </tr>
 
 <tr>
