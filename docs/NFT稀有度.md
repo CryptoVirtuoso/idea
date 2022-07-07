@@ -1,5 +1,5 @@
 ---
-id: nft
+id: NFT稀有度
 title: NFT稀有度
 ---
 
