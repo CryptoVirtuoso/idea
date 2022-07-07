@@ -1,6 +1,6 @@
 ---
-id: nft1
-title: NFT 8大种类
+id: NFT 八大种类
+title: NFT 八大种类
 ---
 ## 发现 NFT
 
