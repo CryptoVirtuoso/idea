@@ -1,6 +1,6 @@
 ---
-id: token
-title: 质押模型
+id: Tokenomics
+title: Tokenomics
 ---
 
 ## ABC质押模型
