@@ -1,9 +1,9 @@
 ---
-id: nft3
-title: NFT erc721 & 1155
+id: NFT standard
+title: NFT standard
 ---
 
-## 舞动未来NFT资产大致可以分为两类：
+## MU NFT Standard
 
 ERC-721和ERC-1155
 
