@@ -1,6 +1,6 @@
 ---
 id: MUIP
-title: MU-Improvement Proposals
+title: MUIP
 ---
 ## Muses-online Improvement Proposals
 
