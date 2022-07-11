@@ -1,5 +1,5 @@
 ---
-id: dao1
+id: Community
 title: 如何参与社区
 ---
 ## 阅读社区计划
