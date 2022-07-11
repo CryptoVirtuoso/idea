@@ -1,10 +1,10 @@
 ---
-id: ugc1
-title: 如何参与内容贡献
+id: PGC
+title: PGC Support Programs
 ---
-## 什么是UGC？
+## 什么是PGC？
 
-[UGC](https://en.wikipedia.org/wiki/User-generated_content)是用户生产内容，舞动未来 早鸟计划中，首批分布式专业设计师将与舞动未来进行签约。
+[PGC](https://en.wikipedia.org/wiki/User-generated_content)由专业的内容/技能领域从业者根据Muses-online发布的生产需求进行制作，完成对应的生产任务获得报酬的一种激励方式。Muses-online早鸟计划中，首批分布式专业设计师将与舞动未来进行签约。
 
 ## 设计师专业技能包括但不限于
 

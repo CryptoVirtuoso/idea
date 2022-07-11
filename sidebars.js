@@ -5,7 +5,7 @@ module.exports = {
     Tokenomics: ['Tokenomics'],
     NFTs: ['NFT稀有度', 'NFT 八大种类', '类别和获取途径', 'NFT standard', 'nft4', 'nft5'],
     社区: ['dao1'],
-    Ecosystem: ['ugc1'],
+    Ecosystem: ['PGC'],
     路线图: ['roadmap'],
     web3app: ['app1'],
   },
