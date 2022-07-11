@@ -8,6 +8,7 @@ module.exports = {
     Ecosystem: ['MUIP', '舞池大赛', 'Media kit', 'Community'],
     'Developers': ['PGC', '赏金计划'],
     路线图: ['roadmap'],
+    Faucet: ['MU加密水龙头', 'AuditStar映射规则'],
     web3app: ['app1'],
   },
 };
