@@ -1,5 +1,5 @@
 ---
-id: 双代币介绍
+id: doc1
 title: 双代币介绍
 sidebar_label: 双代币介绍
 ---

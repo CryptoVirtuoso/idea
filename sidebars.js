@@ -3,7 +3,7 @@ module.exports = {
     启动阶段: ['项目理念', 'doc3', 'doc4', 'doc5'],
     简介: ['技术创新与破圈'],
     'Getting started': ['How to'],
-    Tokenomics: ['双代币介绍','Tokenomics'],
+    Tokenomics: ['doc1','Tokenomics'],
     NFTs: ['NFT稀有度', 'NFT 八大种类', '类别和获取途径', 'NFT standard', 'nft4', 'nft5'],
     Ecosystem: ['MUIP', '舞池大赛', 'Media kit', 'Community'],
     'Developers': ['PGC', '赏金计划'],
