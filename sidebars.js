@@ -9,6 +9,7 @@ module.exports = {
     'Developers': ['PGC', '赏金计划'],
     路线图: ['roadmap'],
     Faucet: ['MU加密水龙头', 'AuditStar映射规则'],
+    Privacy: ['Privacy'],
     web3app: ['app1'],
   },
 };
