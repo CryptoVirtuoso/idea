@@ -6,39 +6,29 @@ title: Privacy
 
 Welcome to Muses! 
 
-WAX affiliated companies and their partners offer unique and exciting products and services related to Non-Fungible Tokens (NFTs), digital collectibles, games, and merchandise, exchangeable virtual items (vIRLs), and decentralized applications (dApps) and communities, all building on the WAX global, secure, eco-friendly blockchain, including:
+Muses affiliated companies and their partners offer unique and exciting products and services related to Non-Fungible Tokens (NFTs), digital collectibles, games, and merchandise, exchangeable virtual items (vIRLs), and decentralized applications (dApps) and communities, all building on the MU global, secure, eco-friendly blockchain, including:
 
-- Worldwide Asset eXchange (WAX): https://wax.io
+- Audi Star: https://xxxxx
 
-- WAX Digital: https://wdny.io
+- Muses-online: https://xxxxxx
 
-- WAX Cloud Wallet: https://all-access.wax.io
+- Muses Cloud Wallet: 
 
-- WAX Developer Hive: https://developer.wax.io
+- Muses Developer Hive: 
 
-- WAX Discord Server:  https://go.wax.io/discord
+- Muses Discord Server: 
 
 And many more!
 
-
-
-WAX products may also be bought and sold on secondary marketplaces offered by third parties, such as those listed at https://dappradar.com/rankings/protocol/wax/category/marketplaces.
-
-Additional resources are available from WAX affiliated companies and others, including those listed at https://dappradar.com/rankings/protocol/wax.
-
-We do not control your relationships with third parties, including our partners and any third party websites or applications to which we or others provide links.  Please check their platforms, websites and applications for information on how they handle your personal information.
-
-
-
 Your Data on the Blockchain
 
-In order for the WAX blockchain to work in the secure and transparent manner as intended, it is essential that there be a publicly accessible record of the history of all sales, trades and transfers of a digital item.  This means that certain data, such as your anonymized WAX blockchain account name, cannot be removed once it is part of the permanent record.  This is true for all blockchains, not just WAX.  That’s how blockchains work.  However, if you delete, transfer or close all of your WAX accounts, then your anonymized account name should no longer be publicly associated with you, unless you identify it in any of your own posts or communications with others.
+In order for the MU blockchain to work in the secure and transparent manner as intended, it is essential that there be a publicly accessible record of the history of all sales, trades and transfers of a digital item.  This means that certain data, such as your anonymized MU blockchain account name, cannot be removed once it is part of the permanent record.  This is true for all blockchains, not just MU.  That’s how blockchains work.  However, if you delete, transfer or close all of your MU accounts, then your anonymized account name should no longer be publicly associated with you, unless you identify it in any of your own posts or communications with others.
 
  
 
-Securing your WAX Accounts 
+Securing your MU Accounts 
 
-The WAX blockchain was built to be secure, but any security system is only as strong as its weakest link.  Please use the strongest available security options for all of your WAX accounts and for any other accounts, including social media accounts if you may use them to sign up for,  or sign in to, a WAX account or a third party website or service.  This often means using two-factor authentication.  However, just as new threats to security evolve, so do new defenses.  We recommend that you frequently check to see the latest and greatest security options available to you -- and use them.  
+The MU blockchain was built to be secure, but any security system is only as strong as its weakest link.  Please use the strongest available security options for all of your MU accounts and for any other accounts, including social media accounts if you may use them to sign up for,  or sign in to, a MU account or a third party website or service.  This often means using two-factor authentication.  However, just as new threats to security evolve, so do new defenses.  We recommend that you frequently check to see the latest and greatest security options available to you -- and use them.  
 
  
 
@@ -46,7 +36,7 @@ Scope of this Policy
 
 This Privacy Policy describes the processing of information provided or collected on the sites and applications where it is posted, in addition to any other privacy notices on such sites or applications.
 
-To the extent permitted by applicable law, your use of any WAX product or service signifies your understanding and acceptance of the terms of this Privacy Policy, in addition to any posted Terms of Service.
+To the extent permitted by applicable law, your use of any MU product or service signifies your understanding and acceptance of the terms of this Privacy Policy, in addition to any posted Terms of Service.
 
 
 
@@ -100,13 +90,13 @@ How Do We Use Your Personal Information?
 
 Consistent with applicable law and choices and controls that may be available to you, we may use information collected from you, or from devices or transactions associated with you globally:
 
-To transact business with you in connection with the WAX platform, products and services, or token use and related transactions (e.g., requests for information about WAX, tokens or other products or services) and otherwise serve you as a customer;
+To transact business with you in connection with the MU platform, products and services, or token use and related transactions (e.g., requests for information about MU, tokens or other products or services) and otherwise serve you as a customer;
 
 To personalize content and experiences;
 
-To assess your interests, preferences and degree of satisfaction with the WAX platform, tokens and/or related products and services;
+To assess your interests, preferences and degree of satisfaction with the MU platform, tokens and/or related products and services;
 
-To keep you posted on new or updated WAX offerings or related products, services and/or upcoming events;
+To keep you posted on new or updated MU offerings or related products, services and/or upcoming events;
 
 To provide you with targeted advertising based on your activity on our sites and applications and on third-party sites and applications;
 
@@ -114,7 +104,7 @@ To improve the effectiveness of our websites, products, services, operations, mo
 
 To verify your identity and eligibility for token sales and/or related products and services;
 
-To conduct auditing, data analysis, and research to improve WAX products, services, and customer communications;
+To conduct auditing, data analysis, and research to improve MU products, services, and customer communications;
 
 To provide customer service;
 
@@ -124,7 +114,7 @@ To send you important notices regarding your purchases and changes to our busine
 
 To comply with applicable law.
 
-When you create an account, you grant WAX the authority to access your account (including your public and private keys).  For more information, please see our Terms of Service.
+When you create an account, you grant MU the authority to access your account (including your public and private keys).  For more information, please see our Terms of Service.
 
 
 
@@ -132,7 +122,7 @@ With Whom Do We Share Your Personal Information?
 
 We may share or disclose your personal information when permitted or required under applicable law, including in the following situations:
 
-With WAX affiliates and partners, in providing you with WAX products and services and for order processing, shipping and fulfillment.
+With MU affiliates and partners, in providing you with MU products and services and for order processing, shipping and fulfillment.
 
 With third party service providers who support, manage and enhance our systems or customer data, provide customer service, assess your interest in our products and services, and conduct customer research or satisfaction surveys. These third parties may include infrastructure and IT service providers, cloud service providers, payment processors (including, for example, third party vendors such as Stripe https://stripe.com/), shipping and order fulfillment vendors, marketing, advertising and communications agencies, external auditors and advisors, cookie analytics providers, online advertisers and analytics services.
 
@@ -148,15 +138,15 @@ With our suppliers and partners, who may provide you with SMS, email and other c
 
 
 
-Due to the global nature of the blockchain and the WAX platform, products and services, your data may be shared globally.
+Due to the global nature of the blockchain and the MU platform, products and services, your data may be shared globally.
 
 
 
 Your Controls and Choices
 
-WAX affiliates, our partners and other third parties may provide you with the ability to exercise certain controls and choices regarding our collection, use and sharing of your information. In accordance with applicable law, your controls and choices may include:
+MU affiliates, our partners and other third parties may provide you with the ability to exercise certain controls and choices regarding our collection, use and sharing of your information. In accordance with applicable law, your controls and choices may include:
 
-Correcting, updating, and deleting your registration account. However, in order for the WAX platform to function correctly, all transactions made by you or person(s) authorized by you on your account will permanently remain tied to the unique (anonymized) identification number associated with your WAX wallet. This information is stored within the blockchain and cannot be altered or deleted;
+Correcting, updating, and deleting your registration account. However, in order for the MU platform to function correctly, all transactions made by you or person(s) authorized by you on your account will permanently remain tied to the unique (anonymized) identification number associated with your MU wallet. This information is stored within the blockchain and cannot be altered or deleted;
 
 Choosing or changing your choices for subscriptions, newsletters, and alerts;
 
@@ -184,7 +174,7 @@ The security, integrity, and confidentiality of your information are extremely i
 
 Children’s Privacy 
 
-The WAX platform, products and services are not designed for use by anyone under the age of eighteen (18) years.  
+The MU platform, products and services are not designed for use by anyone under the age of eighteen (18) years.  
 
 If we learn that we have collected personal information from anyone under the age of thirteen years (or older if applicable in a particular jurisdiction), we will take steps to comply with any applicable legal requirements to delete such information.
 
@@ -196,15 +186,15 @@ If you are a California resident, you may have certain rights with respect to yo
 
 the right to know, by way of our Privacy Policy and the right to request through any specific inquiries you direct to us, the categories and specific pieces of personal information we have about you, the source of the personal information we have about you, the business or commercial purpose for collection, selling or sharing that personal information, the categories of third parties to whom we disclose personal information, whether it is being disclosed or sold, and to whom it is being disclosed or sold;
 
-the right to “opt-out” of WAX’s sale or sharing of your personal information to any third parties;
+the right to “opt-out” of MU’s sale or sharing of your personal information to any third parties;
 
 the right to request and receive certain information about a company’s disclosure of your personal information to third parties for their own direct marketing use, and your choices with respect to such disclosures;
 
-the right to request that WAX correct any inaccurate personal information it maintains about you;
+the right to request that MU correct any inaccurate personal information it maintains about you;
 
-the right to request deletion of your personal information from WAX’s possession or control, with some exceptions including where it is reasonably necessary for WAX to maintain such personal information, ; and
+the right to request deletion of your personal information from MU’s possession or control, with some exceptions including where it is reasonably necessary for MU to maintain such personal information, ; and
 
-the right to receive equal service and pricing from WAX even if you exercise any of your privacy rights.
+the right to receive equal service and pricing from MU even if you exercise any of your privacy rights.
 
 
 
@@ -224,7 +214,7 @@ To obtain without undue delay rectification allowing individuals to correct inac
 
 To erasure (or the right to be forgotten) allowing, with some exceptions, an individual to have their personal information deleted upon request where: the data is no longer necessary for the purposes for which it was collected; the individual withdraws consent on the processing and there is no other legal ground for processing; the individual objects to processing and there is no other legal ground for processing; the data has been unlawfully processed; the data must be erased for compliance with a legal obligation, or; the data has been collected in relation to the offer of information society services;
 
-To restrict data processing where: the accuracy of the data is contested; the processing is unlawfully and individual opposes erasure of the data; WAX no longer needs the data for processing but they are required by the individual to process for legal reasons, or; the individual has objected to the processing and this objection is pending verification;
+To restrict data processing where: the accuracy of the data is contested; the processing is unlawfully and individual opposes erasure of the data; MU no longer needs the data for processing but they are required by the individual to process for legal reasons, or; the individual has objected to the processing and this objection is pending verification;
 
 To grant and withdraw consent for data processing where such processing has been restricted, unless such processing is required for the establishment, exercise or defense of legal claims or for the protection of the rights of another;
 
@@ -250,7 +240,7 @@ We reserve the right to change this Privacy Policy at any time. Please check thi
 
 Contact Us
 
-If you have questions, concerns, comments or requests related to this Privacy Policy or to our processing of your personal information, please direct your inquiries to privacy@wax.io.
+If you have questions, concerns, comments or requests related to this Privacy Policy or to our processing of your personal information, please direct your inquiries to privacy@MU.io.
 
  Please include your country (and, if applicable, state or territory) of residence and a detailed description of your question, concern, comment or request.
 
