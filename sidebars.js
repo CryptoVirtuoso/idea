@@ -5,7 +5,7 @@ module.exports = {
     'Getting started': ['How to','玩法机制'],
     Tokenomics: ['doc1','获取代币','代币标准协议及功能'],
     NFTs: ['什么是NFT','类别和获取途径','属性及稀有度', '掉落预览','NFT 八大种类', 'NFT standard',  'NFT铸造方式及原理'],
-    Ecosystem: ['MUIP', '舞池大赛', 'Media kit', 'Community'],
+    Ecosystem: ['MUIP', '舞池大赛', 'Press kit', 'Community'],
     'Developers': ['PGC', '赏金计划'],
     路线图: ['roadmap'],
     Faucet: ['MU加密水龙头', 'AuditStar映射规则'],
