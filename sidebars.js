@@ -1,7 +1,7 @@
 module.exports = {
   someSidebar: {
     启动阶段: ['项目理念', 'doc3', 'doc4', 'doc5'],
-    简介: ['Muses-online','愿景','技术创新与破圈','Multiverse'],
+    Overview: ['Muses-online','愿景','技术创新与破圈','Multiverse'],
     'Getting started': ['How to','玩法机制'],
     Tokenomics: ['doc1','获取代币','代币标准协议及功能'],
     NFTs: ['什么是NFT','类别和获取途径','属性及稀有度', '掉落预览','NFT 八大种类', 'NFT standard',  'NFT铸造方式及原理'],
