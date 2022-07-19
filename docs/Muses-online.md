@@ -2,13 +2,12 @@
 id: Muses-online
 title: Muses-online
 ---
-## Muses-online
 
 Muses-online（MU）是一款运行在Polygon Network的健康运动游戏，以Motion engine技术为核心，用户可以通过配置NFT服装装扮自己的虚拟形象，在元宇宙的场景中跳舞，与好友娱乐PK，玩游戏，通过你的健康运动转化加密货币获得对应的报酬。
 
 我们的目标是为了让更多的用户认识并了解web3，以MU应用为桥梁，在 Web2 和 Web3 中创造无感化在线娱乐体验，用户可以在其中拥有自己的数据、身份和资产。
 
-
+****
 
 [Muses-online是一款运行在Polygon Network的Web3社交娱乐+健康运动的游戏,你可以通过MUSES创建属于你自己独一无二的NFT虚拟角色，同时可以在线体验不同娱乐社交场景的游戏，在这里有不同的挑战等待着我们，我们可以边运动边游戏甚至赚钱，你可以在Muses建立你自己的私人Museverse，让我们一起开启MUSES生活吧！
 
