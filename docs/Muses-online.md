@@ -1,6 +1,5 @@
 ---
-id: Muses-online
-title: Muses-online
+slug: /
 ---
 
 Muses-online（MU）是一款运行在Polygon Network的健康运动游戏，以Motion engine技术为核心，用户可以通过配置NFT服装装扮自己的虚拟形象，在元宇宙的场景中跳舞，与好友娱乐PK，玩游戏，通过你的健康运动转化加密货币获得对应的报酬。
