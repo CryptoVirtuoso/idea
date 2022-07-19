@@ -1,5 +1,6 @@
 ---
 id: Overview\Muses-online
+title: 🚀Muses-online
 ---
 Muses-online (MU) 是一款运行在Polygon链上的Web3健康运动游戏，Muses通过实时的全性能 Motion Engine 技术为用户提供一个更简单、更强大的线上娱乐体验。用户可以通过游戏中各种NFT服装、道具去装饰个人专属的虚拟形象，并在不同Museverse元宇宙场景中跳舞、PK、玩游戏,将你的健康运动生活转化为加密货币吧！
 	
