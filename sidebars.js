@@ -3,7 +3,7 @@ module.exports = {
     启动阶段: ['项目理念', 'doc3', 'doc4', 'doc5'],
     Overview: ['Muses-online','愿景','技术创新与破圈','Multiverse'],
     'Getting started': ['How to','玩法机制'],
-    Tokenomics: ['doc1','获取代币','代币标准协议及功能'],
+    Tokenomics: ['双代币介绍','获取代币','代币标准协议及功能'],
     NFTs: ['什么是NFT','类别和获取途径','属性及稀有度', '掉落预览','NFT 八大种类', 'NFT standard',  'NFT铸造方式及原理'],
     Ecosystem: ['MUIP', '舞池大赛', 'Press kit', 'Community'],
     'Developers': ['PGC', '赏金计划'],
