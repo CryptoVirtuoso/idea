@@ -19,6 +19,7 @@ Muses-online (MU) 是一款运行在Polygon链上的Web3健康运动游戏，Mus
 
 [Click me](http://www.google.com){: .btn}
 
+[button url="http://www.google.com"]
 
 
 ## Contact Us
