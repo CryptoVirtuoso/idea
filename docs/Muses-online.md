@@ -6,6 +6,17 @@ Muses-online (MU) 是一款运行在Polygon链上的Web3健康运动游戏，Mus
 	
 我们的目标是为了让更多的用户认识并了解web3，以MU应用为桥梁，建立一个Web2-Web3无感化过渡的在线娱乐场景，用户可以在其中拥有自己的数据、身份和资产。
 
+## Crypto coins and NFT assets definition
+
+MU: [Game Token](代币标准协议及功能.md) 
+
+MOT: Governance Token
+
+NFTs: 
+
+
+
+
 
 
 
