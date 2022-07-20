@@ -17,13 +17,11 @@ Muses-online (MU) 是一款运行在Polygon链上的Web3健康运动游戏，Mus
 
 <button name="button" onclick="类别和获取途径.md">上衣</button>
 
-![上衣](https://github.com/cryptoascii/idea/blob/main/static/img/shirt.svg)
+
 
 [![shirt1.png](https://i.postimg.cc/3NCC0LpS/shirt1.png)](https://postimg.cc/MfHjhm9V)
 
-![上衣](https://github.com/cryptoascii/idea/blob/main/static/img/shirt1.png)
 
-[shirt1.png](https://postimg.cc/MfHjhm9V)
 
 
 
