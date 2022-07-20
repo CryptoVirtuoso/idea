@@ -19,7 +19,7 @@ Muses-online (MU) 是一款运行在Polygon链上的Web3健康运动游戏，Mus
 
 测试2
 
-<button name="button" style="background-color:red; border-color:blue; color:white">上衣</button>
+<button name="button" style="background-color:red">上衣</button>
 
 
 ## Contact Us
