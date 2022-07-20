@@ -8,11 +8,11 @@ Muses-online (MU) 是一款运行在Polygon链上的Web3健康运动游戏，Mus
 
 ## Crypto coins and NFT assets definition
 
-MU: [Game Token](双代币介绍.md) 
+- [MU](双代币介绍.md): Game Token
 
-MOT: [Governance Token](双代币介绍.md)
+- [MOT](双代币介绍.md): Governance Token
 
-NFTs: 
+- NFTs: 
 
 
 
