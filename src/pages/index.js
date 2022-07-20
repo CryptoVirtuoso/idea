@@ -35,7 +35,7 @@ const features = [
     ),
   },
   {
-    title: <>UGC计划</>,
+    title: <>PGC计划</>,
     imageUrl: 'img/blogger.png',
     description: (
       <>
