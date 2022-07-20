@@ -14,6 +14,19 @@ Muses-online (MU) 是一款运行在Polygon链上的Web3健康运动游戏，Mus
 
 - NFTs: 
 
+## Contact Us:
+
+Website: https://www.muses-online.com
+
+Twitter: https://twitter.com/MusesOnline
+
+Discord: https://discord.gg/ZrahWhU626
+
+GitHub: https://github.com/Muses-online
+
+Mail: contact@muses-online.com
+
+
 
 
 
