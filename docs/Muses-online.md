@@ -19,6 +19,8 @@ Muses-online (MU) 是一款运行在Polygon链上的Web3健康运动游戏，Mus
 
 ![上衣](https://github.com/cryptoascii/idea/blob/main/static/img/shirt.svg)
 
+<img src="markdownmonstericon.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
+
 
 
 
