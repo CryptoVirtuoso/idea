@@ -15,7 +15,8 @@ Muses-online (MU) 是一款运行在Polygon链上的Web3健康运动游戏，Mus
 - NFTs: 👕[上衣](类别和获取途径.md), 🩳[裤子](类别和获取途径.md), 🩰[鞋子](类别和获取途径.md)
 
 
-[![shirt.png](https://i.postimg.cc/yN31Pxj9/shirt.png)](https://postimg.cc/sByCfVtD)<button name="button" onclick="类别和获取途径.md">上衣</button>
+[![shirt.png](https://i.postimg.cc/yN31Pxj9/shirt.png)](https://postimg.cc/sByCfVtD)
+<button name="button" onclick="类别和获取途径.md">上衣</button>
 
 
 
