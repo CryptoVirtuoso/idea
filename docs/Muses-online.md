@@ -16,6 +16,15 @@ Muses-online (MU) 是一款运行在Polygon链上的Web3健康运动游戏，Mus
 
 <button name="button" onclick="类别和获取途径.md">上衣</button>
 
+<div className='deployContractBtnContainer' style={{marginTop:-70}}>
+
+<DeployThisContractButton
+  link={"https://thirdweb.com/contracts/new/pre-built/marketplace/marketplace"}
+  contractType="marketplace"
+/>
+
+</div>
+
 
 
 [![shirt1.png](https://i.postimg.cc/3NCC0LpS/shirt1.png)](https://postimg.cc/MfHjhm9V)
