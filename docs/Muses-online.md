@@ -16,14 +16,7 @@ Muses-online (MU) 是一款运行在Polygon链上的Web3健康运动游戏，Mus
 
 <button name="button" onclick="类别和获取途径.md">上衣</button>
 
-<div className='deployContractBtnContainer' style={{marginTop:-70}}>
 
-<DeployThisContractButton
-  link={"https://thirdweb.com/contracts/new/pre-built/marketplace/marketplace"}
-  contractType="marketplace"
-/>
-
-</div>
 
 
 
@@ -53,6 +46,25 @@ Mail: contact@muses-online.com
 MU 处理公测期间，白皮书(wiki)的内容在不断地完善及修正，关于重要的游戏参数和合约更新，我们会在twitter和社区及时公布，谢谢你的参与！
 
 :::
+
+
+<Tabs
+  defaultValue="apple"
+  values={[
+    {label: 'Apple 1', value: 'apple'},
+    {label: 'Orange 1', value: 'orange'},
+    {label: 'Banana 1', value: 'banana'},
+  ]}>
+  <TabItem value="apple" label="Apple 2">
+    This is an apple 🍎
+  </TabItem>
+  <TabItem value="orange" label="Orange 2">
+    This is an orange 🍊
+  </TabItem>
+  <TabItem value="banana" label="Banana 2" default>
+    This is a banana 🍌
+  </TabItem>
+</Tabs>
 
 
 
