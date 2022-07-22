@@ -2,18 +2,11 @@
 id: 什么是NFT
 title: 什么是NFT
 ---
-## 什么是NFT
-
-<Tabs groupId="operating-systems">
-  <TabItem value="win" label="Windows">Use Ctrl + C to copy.</TabItem>
-  <TabItem value="mac" label="macOS">Use Command + C to copy.</TabItem>
+<Tabs className="unique-tabs">
+  <TabItem value="Apple">This is an apple 🍎</TabItem>
+  <TabItem value="Orange">This is an orange 🍊</TabItem>
+  <TabItem value="Banana">This is a banana 🍌</TabItem>
 </Tabs>
-
-<Tabs groupId="operating-systems">
-  <TabItem value="win" label="Windows">Use Ctrl + V to paste.</TabItem>
-  <TabItem value="mac" label="macOS">Use Command + V to paste.</TabItem>
-</Tabs>
-
 
 
 
