@@ -32,39 +32,6 @@ MU 处理公测期间，白皮书(wiki)的内容在不断地完善及修正，�
 
 :::
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
-<Tabs>
-  <TabItem value="apple" label="Apple" default>
-    This is an apple 🍎
-  </TabItem>
-  <TabItem value="orange" label="Orange">
-    This is an orange 🍊
-  </TabItem>
-  <TabItem value="banana" label="Banana">
-    This is a banana 🍌
-  </TabItem>
-</Tabs>
-
-<Tabs
-  defaultValue="apple"
-  values={[
-    {label: 'Apple 1', value: 'apple'},
-    {label: 'Orange 1', value: 'orange'},
-    {label: 'Banana 1', value: 'banana'},
-  ]}>
-  <TabItem value="apple" label="Apple 2">
-    This is an apple 🍎
-  </TabItem>
-  <TabItem value="orange" label="Orange 2">
-    This is an orange 🍊
-  </TabItem>
-  <TabItem value="banana" label="Banana 2" default>
-    This is a banana 🍌
-  </TabItem>
-</Tabs>
-
 
 
 
